@@ -1,0 +1,6 @@
+{
+  "name": "Tattoo Studio",
+  "description": "Custom tattoo studio with professional artistry, fine-line, color, realism, and touch-up services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
